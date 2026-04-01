@@ -1,0 +1,19 @@
+{
+  "name": "portrait-forge",
+  "owner": {
+    "name": "Derrick",
+    "url": "https://github.com/derrick"
+  },
+  "metadata": {
+    "description": "Local-first CLI for stylized portrait generation with Gemini, Replicate, and optional visual QA.",
+    "version": "0.2.0"
+  },
+  "plugins": [
+    {
+      "name": "portrait-forge",
+      "description": "AI portrait generation with batch orchestration, visual QA agents, and /loop-based polling. Requires portrait-forge npm package.",
+      "version": "0.2.0",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "portrait-forge",
+  "version": "0.1.0",
+  "description": "Local-first CLI for stylized portrait generation with Gemini, Replicate, and optional visual QA.",
+  "type": "module",
+  "bin": {
+    "portrait-forge": "./bin/portrait-forge.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derrick/portrait-forge.git"
+  },
+  "homepage": "https://github.com/derrick/portrait-forge",
+  "bugs": {
+    "url": "https://github.com/derrick/portrait-forge/issues"
+  },
+  "dependencies": {
+    "@google/genai": "^1.38.0",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^17.2.3",
+    "replicate": "^1.4.0",
+    "sharp": "^0.34.5"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "models": {
+    "forge": "gemini-3.1-flash-image-preview",
+    "backgroundRemoval": "bria/remove-background",
+    "backgroundRemovalVersion": null
+  },
+  "verification": {
+    "expectedDimension": 1024,
+    "baseThreshold": 0.8,
+    "transparencyThreshold": 0.04,
+    "passRatio": 0.5,
+    "verificationMargin": 10,
+    "sampleSize": 5
+  },
+  "replicate": {
+    "maxRetries": 3,
+    "backoffMs": 2000
+  }
+}

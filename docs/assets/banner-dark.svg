@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120" fill="none">
+  <style>
+    .title { font: 700 48px 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f0f0f0; }
+    .sub { font: 400 16px 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #999; }
+  </style>
+  <text x="320" y="62" text-anchor="middle" class="title">portrait-forge</text>
+  <text x="320" y="92" text-anchor="middle" class="sub">AI portrait generation pipeline</text>
+</svg>

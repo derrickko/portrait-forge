@@ -1,0 +1,3 @@
+name,ref_path,outfit_path,subject_type
+Sample Person One,samples/refs/person-one.png,samples/outfits/blazer.png,corporate professional
+Sample Person Two,samples/refs/person-two.png,samples/outfits/hoodie.png,character portrait

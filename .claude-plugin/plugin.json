@@ -1,0 +1,13 @@
+{
+  "name": "portrait-forge",
+  "version": "0.2.0",
+  "description": "AI portrait generation with batch orchestration, visual QA agents, and /loop-based polling. Requires portrait-forge npm package.",
+  "author": {
+    "name": "Derrick",
+    "url": "https://github.com/derrick"
+  },
+  "homepage": "https://github.com/derrick/portrait-forge",
+  "repository": "https://github.com/derrick/portrait-forge",
+  "license": "MIT",
+  "keywords": ["portrait", "image-generation", "gemini", "batch", "visual-qa"]
+}
